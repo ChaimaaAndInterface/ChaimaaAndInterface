@@ -12,18 +12,9 @@ I am a passionate learner and educator with a love for discovering new technolog
 
 ## 🚀 Interests
 
-- **Web**
 - **Cyber Security**
 - **Artificial Intelligence**
-- **Quantum Computing**
-- **Data Science**
-- **Cloud Computing**
-- **Blockchain and Cryptocurrency**
 - **IoT**
-- **Virtual Reality**
-- **Parallel and Distributed Computing**
-- **Human-Computer Interaction**
-- **Mobile Computing**
 
 
 ## 📈 GitHub Stats
