@@ -4,7 +4,7 @@
 
 I am a passionate learner and educator with a love for discovering new technologies and concepts. Here are some of the things I enjoy:
 
-- 🌱 I’m currently learning Web and Cyber Security. 
+- 🌱 I’m currently learning Cyber Security, Artificial Intelligence and Internet of Things (IoT). 
 - 💬 Ask me about my work. 
 - 📫 How to reach me: mehedi.interface@gmail.com
 - ⚡ Fun fact: I enjoy learning, teaching, and sleeping.
