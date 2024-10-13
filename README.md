@@ -11,9 +11,11 @@ I am a passionate learner and educator with a love for discovering new technolog
 
 ## 🚀 Interests
 
-- **Cyber Security**
+- **Web**
+- **CCNA**
+- **IT Support**
 - **Artificial Intelligence**
-- **IoT**
+- **Cyber Security**
 
 
 ## 📈 GitHub Stats
