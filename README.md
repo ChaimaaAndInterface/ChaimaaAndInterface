@@ -11,9 +11,8 @@ I am a passionate learner and educator with a love for discovering new technolog
 
 ## 🚀 Interests
 
+- **Business**
 - **Web**
-- **CCNA**
-- **IT Support**
 - **Artificial Intelligence**
 - **Cyber Security**
 
