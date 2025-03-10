@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MehediAndInterface)
 
-I am a passionate learner and educator with a love for discovering new technologies and concepts. Here are some of the things I enjoy:
+I thrive at the intersection of Artificial Intelligence and Cybersecurity—not because it’s my job, but because it’s my passion. From exploring machine learning models to understanding ethical hacking techniques, I love diving deep into the ever-evolving world of technology. Here are some of the things I enjoy:
 
 - 🌱 I’m currently learning Cyber Security, Artificial Intelligence and Internet of Things (IoT). 
 - 💬 Ask me about my work. 
