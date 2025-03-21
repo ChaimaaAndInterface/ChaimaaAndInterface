@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Building responsive web applications using JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.<br>🤝 I'm looking to collaborate on: Open-source web development projects, especially those related to AI or cybersecurity.<br>💖 I'm looking for help with: Advanced JavaScript concepts and backend integrations.<br>🌱 I'm currently learning: Artificial Intelligence fundamentals and cybersecurity best practices.<br>💬 Ask me about: Web development tips, front-end frameworks, or getting started with open source.<br>⚡ Fun fact: I'm passionate about continuous learning and exploring new technologies.
+🔭 **I'm currently working on:** Building responsive web applications using JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.<br>🤝 **I'm looking to collaborate on:** Open-source web development projects, especially those related to AI or cybersecurity.<br>💖 **I'm looking for help with:** Advanced JavaScript concepts and backend integrations.<br>🌱 **I'm currently learning:** Artificial Intelligence fundamentals and cybersecurity best practices.<br>💬 **Ask me about:** Web development tips, front-end frameworks, or getting started with open source.<br>⚡ **Fun fact:** I'm passionate about continuous learning and exploring new technologies.
 
 
 ## 🌐 Socials:
