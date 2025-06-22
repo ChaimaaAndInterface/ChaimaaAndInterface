@@ -22,10 +22,10 @@ I’m passionate and actively working in the fields of **Artificial Intelligence
 - The latest trends and research in **AI for Cybersecurity**
 
 ### 📫 How to Reach Me  
-📧 mehedi.interface@gmail.com
-👉 LinkedIn: https://www.linkedin.com/in/whatsupmehedi
-👉 YouTube: https://www.youtube.com/@WhatsUpMehedi
-👉 Facebook: https://www.facebook.com/WhatsUpMehedi
+📧 mehedi.interface@gmail.com <br>
+👉 LinkedIn: https://www.linkedin.com/in/whatsupmehedi <br>
+👉 YouTube: https://www.youtube.com/@WhatsUpMehedi <br>
+👉 Facebook: https://www.facebook.com/WhatsUpMehedi <br>
 👉 Instagram: https://www.instagram.com/whatsupmehedi
 
 
