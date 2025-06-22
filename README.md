@@ -1,22 +1,25 @@
 # Hi there, I'm **Naimul Islam Mehedi** 👋
 
 ## 👨🏻‍💻 About Me
-I’m a passionate and actively working in the fields of **Artificial Intelligence** and **Cybersecurity**. My journey in tech has led me to explore these cutting-edge areas where innovation meets critical infrastructure. I enjoy building practical solutions, diving into real-world security challenges, and researching how AI can be used to make systems smarter and more secure. I'm always eager to learn and collaborate on impactful projects.
+I’m passionate and actively working in the fields of **Artificial Intelligence** and **Cybersecurity**. My journey in tech has led me to explore these cutting-edge areas where innovation meets critical infrastructure. I enjoy building practical solutions, diving into real-world security challenges, and researching how AI can be used to make systems smarter and more secure. I'm always eager to learn and collaborate on impactful projects.
 
+---
 
 ### 🔭 Current Projects  
-I’m currently working on a **playlist of solutions for 250 Python problems**, building a foundation for my upcoming research in **AI for Cybersecurity**.
+- 🎯 Building a **playlist of solutions for 250 Python problems**  
+- 🧠 Researching **AI in Cybersecurity** for PhD preparation
 
 ### 🌱 Currently Learning  
 - Advanced Cybersecurity concepts  
 - Modern AI techniques  
-- Practical applications of AI in Cybersecurity (PhD prep)
+- Real-world AI-Cybersecurity integrations
 
 ### 👯 Open to Collaborate  
-I’m looking to collaborate on open-source **Cybersecurity** or **AI** projects.
+- Open-source **AI & Cybersecurity** projects  
+- Research collaborations
 
 ### 🤔 Looking for Help With  
-Understanding the **latest advancements in AI for Cybersecurity** to support my **PhD program**.
+- The latest trends and research in **AI for Cybersecurity**
 
 ### 📫 How to Reach Me  
 📧 mehedi.interface@gmail.com
@@ -25,7 +28,7 @@ Understanding the **latest advancements in AI for Cybersecurity** to support my 
 He/Him
 
 ### ⚡ Fun Fact  
-I'm a huge **cricket fan**🏏
+I'm a huge **cricket fan** 🏏 
 
 ---
 
@@ -41,8 +44,6 @@ I'm a huge **cricket fan**🏏
 - AI in Cyber Security
 
 ---
-
-## 🛠️ My Tech Stack  
 
 ## 🛠️ My Tech Stack  
 
@@ -69,7 +70,7 @@ I'm a huge **cricket fan**🏏
 - Nessus  
 - John the Ripper  
 - Hydra  
-- Autopsy (Digital Forensics)  
+- Autopsy  
 - OSINT Tools (theHarvester, Recon-ng)
 
 ### 🔒 Platforms & Environments  
@@ -80,33 +81,42 @@ I'm a huge **cricket fan**🏏
 - Docker  
 
 ### ☁️ Cloud & DevOps  
-- AWS 
+- AWS  
 - Linux Server Management  
-- CI/CD with GitHub Actions 
+- CI/CD with GitHub Actions  
 
 ### 🧰 Other Tools  
 - VS Code  
 - Postman  
-- Figma (for UI ideas & planning)  
-- Canva (for quick visuals/documentation)
+- Figma  
+- Canva  
 
+---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehediAndInterface&show_icons=true&theme=tokyonight" alt="Mehedi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehediAndInterface&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediAndInterface&theme=tokyonight" alt="Mehedi's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediAndInterface&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAndInterface&layout=compact&theme=tokyonight" alt="Mehedi's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAndInterface&layout=compact&theme=tokyonight&hide_border=true" alt="Mehedi's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MehediAndInterface&theme=darkhub&row=1&margin-w=10&margin-h=10" alt="Mehedi's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehediAndInterface&theme=tokyo-night&hide_border=true" alt="Mehedi's Contribution Graph" />
 </p>
 
 ---
 
 ## 🤝 Get in Touch  
 I'm always open to connecting with fellow **developers, researchers**, and **tech enthusiasts**.  
-Feel free to reach out to me!
+Let’s build something great together! 🚀
