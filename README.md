@@ -23,6 +23,11 @@ I’m passionate and actively working in the fields of **Artificial Intelligence
 
 ### 📫 How to Reach Me  
 📧 mehedi.interface@gmail.com
+👉 LinkedIn: https://www.linkedin.com/in/whatsupmehedi
+👉 YouTube: https://www.youtube.com/@WhatsUpMehedi
+👉 Facebook: https://www.facebook.com/WhatsUpMehedi
+👉 Instagram: https://www.instagram.com/whatsupmehedi
+
 
 ### 😄 Pronouns  
 He/Him
