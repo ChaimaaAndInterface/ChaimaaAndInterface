@@ -70,7 +70,7 @@ She/Her
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaaAndInterface&theme=darkhub&row=1&margin-w=10&margin-h=10" alt="Mehedi's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaaAndInterface&theme=darkhub&row=1&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 <p align="center">
