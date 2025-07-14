@@ -1,52 +1,37 @@
-# Hi there, I'm **Naimul Islam Mehedi** 👋
+# Hi there, I'm **El Aouad Chaimaa** 👋
 
 ## 👨🏻‍💻 About Me
-I’m passionate and actively working in the fields of **Artificial Intelligence** and **Cybersecurity**. My journey in tech has led me to explore these cutting-edge areas where innovation meets critical infrastructure. I enjoy building practical solutions, diving into real-world security challenges, and researching how AI can be used to make systems smarter and more secure. I'm always eager to learn and collaborate on impactful projects.
-
+I'm a passionate third-year Artificial Intelligence student deeply focused on building intelligent solutions and crafting robust web applications. My journey is all about exploring the synergy between cutting-edge AI and practical Web Development, aiming to create impactful and user-centric experiences. I thrive on solving complex problems, continuously learning, and collaborating on innovative projects.
 ---
 
 ### 🔭 Current Projects  
 - 🎯 Building a **playlist of solutions for 250 Python problems**  
-- 🧠 Researching **AI in Cybersecurity** for PhD preparation
+- 🧠 Researching advanced AI techniques for a deeper understanding and future applications.
 
 ### 🌱 Currently Learning  
-- Advanced Cybersecurity concepts  
-- Modern AI techniques  
-- Real-world AI-Cybersecurity integrations
+- Open-source projects in Artificial Intelligence and Web Development.
+- Research collaborations focusing on practical AI solutions.
 
 ### 👯 Open to Collaborate  
 - Open-source **AI & Cybersecurity** projects  
 - Research collaborations
 
 ### 🤔 Looking for Help With  
-- The latest trends and research in **AI for Cybersecurity**
-
-### 📫 How to Reach Me  
-📧 mehedi.interface@gmail.com <br>
-👉 LinkedIn: https://www.linkedin.com/in/whatsupmehedi <br>
-👉 YouTube: https://www.youtube.com/@WhatsUpMehedi <br>
-👉 Facebook: https://www.facebook.com/WhatsUpMehedi <br>
-👉 Instagram: https://www.instagram.com/whatsupmehedi
-
+- The latest trends and groundbreaking research in Artificial Intelligence and Web Development.
 
 ### 😄 Pronouns  
-He/Him
-
-### ⚡ Fun Fact  
-I'm a huge **cricket fan** 🏏 
+She/Her
 
 ---
 
 ## 💬 Ask Me About
-- Cyber Security  
-- Computer Networks & Cryptography  
-- Operating Systems  
-- Programming Languages  
-- Ethical Hacking & Penetration Testing  
-- Digital Forensics & Malware Analysis  
-- Web, Cloud, and IoT Security  
-- Cyber Laws, Crime, and Ethics  
-- AI in Cyber Security
+- Artificial Intelligence: From machine learning models to practical AI implementations.
+
+- Web Development: Building dynamic and responsive web applications.
+
+- Programming Languages: Python, C/C++, Bash/Shell, JavaScript, SQL.
+
+- Virtual Assistant Development: Creating voice-driven experiences.
 
 ---
 
@@ -67,58 +52,6 @@ I'm a huge **cricket fan** 🏏
 - NumPy & Pandas  
 - Jupyter Notebooks  
 
-### 🛡️ Cybersecurity Tools  
-- Wireshark  
-- Metasploit Framework  
-- Burp Suite  
-- Nmap  
-- Nessus  
-- John the Ripper  
-- Hydra  
-- Autopsy  
-- OSINT Tools (theHarvester, Recon-ng)
-
-### 🔒 Platforms & Environments  
-- Kali Linux  
-- Parrot Security OS  
-- VirtualBox & VMware  
-- Git & GitHub  
-- Docker  
-
-### ☁️ Cloud & DevOps  
-- AWS  
-- Linux Server Management  
-- CI/CD with GitHub Actions  
-
-### 🧰 Other Tools  
-- VS Code  
-- Postman  
-- Figma  
-- Canva  
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehediAndInterface&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediAndInterface&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAndInterface&layout=compact&theme=tokyonight&hide_border=true" alt="Mehedi's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehediAndInterface&theme=darkhub&row=1&margin-w=10&margin-h=10" alt="Mehedi's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehediAndInterface&theme=tokyo-night&hide_border=true" alt="Mehedi's Contribution Graph" />
-</p>
 
 ---
 
