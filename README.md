@@ -1,3 +1,4 @@
+# Hi there, I'm **El Aouad Chaimaa** 👋
 
 ## 👨🏻‍💻 About Me
 I'm a passionate third-year Artificial Intelligence student deeply focused on building intelligent solutions and crafting robust web applications. My journey is all about exploring the synergy between cutting-edge AI and practical Web Development, aiming to create impactful and user-centric experiences. I thrive on solving complex problems, continuously learning, and collaborating on innovative projects.
