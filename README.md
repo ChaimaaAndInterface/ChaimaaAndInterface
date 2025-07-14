@@ -58,15 +58,15 @@ She/Her
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaimaaAndInterface&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaimaaAndInterface&show_icons=true&theme=tokyonight&hide_border=true" alt="Chaimaa's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaAndInterface&theme=tokyonight&hide_border=true" alt="Mehedi's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaAndInterface&theme=tokyonight&hide_border=true" alt="Chaimaa's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaAndInterface&layout=compact&theme=tokyonight&hide_border=true" alt="Mehedi's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaAndInterface&layout=compact&theme=tokyonight&hide_border=true" alt="Chaimaa's Top Languages" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ She/Her
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaimaaAndInterface&theme=tokyo-night&hide_border=true" alt="Mehedi's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaimaaAndInterface&theme=tokyo-night&hide_border=true" alt="Chaimaa's Contribution Graph" />
 </p>
 
 ---
