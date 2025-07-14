@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d669cec1-0236-40b8-84f2-4776007ec409" />
+
 ## 👨🏻‍💻 About Me
 I'm a passionate third-year Artificial Intelligence student deeply focused on building intelligent solutions and crafting robust web applications. My journey is all about exploring the synergy between cutting-edge AI and practical Web Development, aiming to create impactful and user-centric experiences. I thrive on solving complex problems, continuously learning, and collaborating on innovative projects.
 ---
